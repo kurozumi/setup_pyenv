@@ -22,4 +22,5 @@ pip install -r piplist.txt
 #./build.py
 
 wget https://phantomjs.googlecode.com/files/phantomjs-1.9.2-linux-x86_64.tar.bz2
-tar jxfv phantomjs-1.9.2-linux-x86_64.tar.bz2 phantomjs
+tar jxfv phantomjs-1.9.2-linux-x86_64.tar.bz2
+sudo cp phantomjs-1.9.2-linux-x86_64.tar.bz2/bin/phantomjs /usr/local/bin
