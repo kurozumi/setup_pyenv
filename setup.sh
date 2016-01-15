@@ -16,4 +16,8 @@ pyenv global 2.7.8
 
 pip install -r piplist.txt
 
+git clone --recursive git://github/com/ariya/phantomjs.git
 
+cd phantomjs
+
+./build.py
