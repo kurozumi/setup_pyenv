@@ -1,0 +1,6 @@
+beautifulsoup4
+lxml
+MySQL-python
+PyYAML
+selenium
+
